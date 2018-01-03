@@ -1,5 +1,5 @@
 # cryptopals
- the cryptopals crypto challenges
- 
- might as well do this in python so I can finally "get" python and be part of
- the millions who love it.
+the cryptopals challenges
+
+i'm going to attempt to do this in python so I "get it" and finally become one
+of those millions who love python
